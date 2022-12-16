@@ -1,0 +1,14 @@
+.background{
+  background-color: lightpink;
+}
+body {
+  background-color: #000000;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  letter-spacing: 1px;
+  font-weight: 12px;
+  color: rgb(51, 50, 50);
+}
+.Youtube{
+  text-emphasis-color: rgb(230, 39, 71);
+}
+  

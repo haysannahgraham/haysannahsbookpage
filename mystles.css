@@ -1,0 +1,31 @@
+body {
+    background-color: #ffffff;
+  }
+  
+  ol li ul {
+    list-style-type: square;
+  }
+  
+  #image-container {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  #video-container {
+    clear: both;
+  }
+  
+  #tableau-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #back-to-top-container {
+    text-align: center;
+  }
+  
+  .text {
+    color: #000000;
+    font-family: sans-serif;
+  }
+  
